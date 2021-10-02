@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Quỳnh Mai bae ơi o((>ω< ))o 💌!',
     introDesc: `ψ(｀∇´)ψ tui có chuyện này muốn hỏi bae nè `,
     btnIntro: 'Em đây',
-    title: '(p≧w≦q) Có phải em rất yêu anh phải không bấybi 💘',
+    title: '(p≧w≦q) bấybi à Có phải em rất yêu anh phải không',
     desc: ' iuuu thì không được bấm không nghe chưa 💞 ',
     btnYes: 'Tôi Rất Là Iu bạn Hoàng 💓 ',
     btnNo: 'Không, Anh trai à💦',
