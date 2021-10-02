@@ -1,6 +1,6 @@
 const CONFIG = {
-    introTitle: 'Quynh à!',
-    introDesc: `Anh có chuyện này muốn hỏi em`,
+    introTitle: 'Quỳnh Mai bae ơi !',
+    introDesc: `tui có chuyện này muốn hỏi bae nè `,
     btnIntro: 'Em đây',
     title: 'Có phải em đã yêu anh từ cái nhìn đầu không 😙',
     desc: 'Em có say anh không ',
@@ -8,9 +8,9 @@ const CONFIG = {
     btnNo: 'Không, Anh trai à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Vì anh đẹp trai em rất yêu anh <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh tới đón em đi ăn kem.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com/buivinhk1' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    reply: 'Vì anh mập mạp dễ thương đó nòa  <33333333',
+    mess: 'tui biết mà 🥰. iuuu bae của Hoàng nhiều nhiều nòa  😘😘',
+    messDesc: 'Tối nay 7h mình cùng call ôn lý nhá .',
+    btnAccept: 'Okie lun <3',
+    messLink: 'https://www.facebook.com/profile.php?id=100026239419316' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
